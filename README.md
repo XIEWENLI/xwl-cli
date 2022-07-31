@@ -1,2 +1,2 @@
 # xwl-cli
-vue-ts
+个人开发的vue脚手架

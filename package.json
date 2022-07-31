@@ -1,0 +1,26 @@
+{
+  "name": "xwl-cli",
+  "version": "1.0.0",
+  "description": "个人开发的vue的脚手架",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "xwlvue": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XIEWENLI/xwl-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XIEWENLI/xwl-cli/issues"
+  },
+  "homepage": "https://github.com/XIEWENLI/xwl-cli#readme"
+}
