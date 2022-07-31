@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/XIEWENLI/xwl-cli/issues"
   },
-  "homepage": "https://github.com/XIEWENLI/xwl-cli#readme"
+  "homepage": "https://github.com/XIEWENLI/xwl-cli#readme",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "download-git-repo": "^3.0.2",
+    "open": "^8.4.0"
+  }
 }
