@@ -16,9 +16,14 @@
     "type": "git",
     "url": "git+https://github.com/XIEWENLI/xwl-cli.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["xwl-cli","xwlvue","xiewenli","vue","xwl"],
+  "author": "xiewenli",
+  "license": "MIT",
+  "homepage":"",
+  "repository":{
+    "type":"git",
+    "url":""
+  },
   "bugs": {
     "url": "https://github.com/XIEWENLI/xwl-cli/issues"
   },
